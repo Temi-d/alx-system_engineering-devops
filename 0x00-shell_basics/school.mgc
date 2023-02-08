@@ -1,0 +1,3 @@
+file -C -m School
+0 string SCHOOL
+!:mime School
